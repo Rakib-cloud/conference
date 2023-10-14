@@ -5,7 +5,7 @@ const Hero2 = () => {
     <div className=''>
         
 
-        <section class="py-16 bg-secondary lg:py-20 dark:bg-gray-800 font-poppins">
+        <section class="py-16 bg-secondary lg:py-20 bg-white font-poppins">
         <div class="max-w-xl mx-auto">
             <div class="text-center ">
             <div class="relative flex flex-col items-center">
@@ -34,7 +34,7 @@ const Hero2 = () => {
             <div class="w-full px-4 mx-auto lg:max-w-5xl ">
                 <div class="relative">
                     <div
-                        class="absolute hidden w-1 h-full transform -translate-x-1/2 bg-[#c9e2f5] dark:bg-gray-700 lg:block left-1/2">
+                        class="absolute hidden w-1 h-full transform -translate-x-1/2 bg-[#c9e2f5]  lg:block left-1/2">
                     </div>
                     <div class="space-y-2 lg:space-y-4">
                         <div>
@@ -42,7 +42,7 @@ const Hero2 = () => {
                                 <div class="flex items-center justify-start w-full mx-auto">
                                     <div class="w-full lg:w-1/2 lg:pr-8">
                                         <div
-                                            class="relative flex-1 mb-10 bg-white rounded shadow lg:mb-8 dark:bg-gray-900">
+                                            class="relative flex-1 mb-10  rounded shadow lg:mb-8 bg-primary">
                                             <div
                                                 class="absolute inline-block w-4 overflow-hidden -translate-y-1/2 top-3 -right-4">
                                                 <div
@@ -53,19 +53,19 @@ const Hero2 = () => {
                                                 <div class="flex flex-wrap items-center">
                                                     <div class="p-4 md:w-1/4 ">
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">November</span>
+                                                            class="text-lg text-white">November</span>
                                                         <p
-                                                            class="text-2xl font-bold text-gray-700 dark:text-gray-400 text-bold">
+                                                            class="text-2xl font-bold text-white text-bold">
                                                             01</p>
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">2021</span>
+                                                            class="text-lg text-white">2021</span>
                                                     </div>
                                                     <div
                                                         class="flex-1 p-4 pr-4 border-l border-gray-300 dark:border-gray-700">
                                                         <p
-                                                            class="mb-2 text-xl font-bold text-gray-600 dark:text-gray-400">
+                                                            class="mb-2 text-xl font-bold text-white">
                                                            Last day of</p>
-                                                        <p class="text-gray-700 dark:text-gray-500">
+                                                        <p class=" text-white">
                                                            Paper submission
                                                         </p>
                                                     </div>
@@ -96,30 +96,30 @@ const Hero2 = () => {
                                 <div class="flex items-center justify-end w-full mx-auto">
                                     <div class="w-full lg:w-1/2 lg:pl-8">
                                         <div
-                                            class="relative flex-1 mb-10 bg-white rounded shadow lg:mb-8 dark:bg-gray-900">
+                                            class="relative flex-1 mb-10  rounded shadow lg:mb-8 bg-primary">
                                             <div
                                                 class="absolute inline-block w-4 overflow-hidden -translate-y-1/2 top-7 -left-4">
                                                 <div
-                                                    class="hidden h-10 origin-top-right transform -rotate-45 bg-white dark:bg-gray-900 lg:block drop-shadow-lg">
+                                                    class="hidden h-10 origin-top-right transform -rotate-45 bg-white  lg:block drop-shadow-lg">
                                                 </div>
                                             </div>
                                             <div class="relative z-20 ">
                                                 <div class="flex flex-wrap items-center">
                                                     <div class="p-4 md:w-1/4 ">
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">July</span>
+                                                            class="text-lg text-white">July</span>
                                                         <p
-                                                            class="text-2xl font-bold text-gray-700 dark:text-gray-400 text-bold">
+                                                            class="text-2xl font-bold text-white text-bold">
                                                             02</p>
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">2022</span>
+                                                            class="text-lg text-white">2022</span>
                                                     </div>
                                                     <div
                                                         class="flex-1 p-4 pr-4 border-l border-gray-300 dark:border-gray-700">
                                                         <p
-                                                            class="mb-2 text-xl font-bold text-gray-600 dark:text-gray-400">
+                                                            class="mb-2 text-xl font-bold text-white">
                                                           Paper Sorting</p>
-                                                        <p class="text-gray-700 dark:text-gray-500">
+                                                        <p class="text-white">
                                                            Accepted Papers
                                                         </p>
                                                     </div>
@@ -147,7 +147,7 @@ const Hero2 = () => {
                                 <div class="flex items-center justify-start w-full mx-auto">
                                     <div class="w-full lg:w-1/2 lg:pr-8">
                                         <div
-                                            class="relative flex-1 mb-10 bg-white rounded shadow lg:mb-8 dark:bg-gray-900">
+                                            class="relative flex-1 mb-10 bg-primary rounded shadow lg:mb-8 ">
                                             <div
                                                 class="absolute inline-block w-4 overflow-hidden -translate-y-1/2 top-3 -right-4">
                                                 <div
@@ -158,19 +158,19 @@ const Hero2 = () => {
                                                 <div class="flex flex-wrap items-center">
                                                     <div class="p-4 md:w-1/4 ">
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">December</span>
+                                                            class="text-lg text-white">December</span>
                                                         <p
-                                                            class="text-2xl font-bold text-gray-700 dark:text-gray-400 text-bold">
+                                                            class="text-2xl font-bold text-white text-bold">
                                                             11</p>
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">2022</span>
+                                                            class="text-lg text-white">2022</span>
                                                     </div>
                                                     <div
                                                         class="flex-1 p-4 pr-4 border-l border-gray-300 dark:border-gray-700">
                                                         <p
-                                                            class="mb-2 text-xl font-bold text-gray-600 dark:text-gray-400">
+                                                            class="mb-2 text-xl font-bold text-white">
                                                             Call for interview</p>
-                                                        <p class="text-gray-700 dark:text-gray-500">
+                                                        <p class="text-white">
                                                            Digital meetup
                                                         </p>
                                                     </div>
@@ -198,7 +198,7 @@ const Hero2 = () => {
                                 <div class="flex items-center justify-end w-full mx-auto">
                                     <div class="w-full lg:w-1/2 lg:pl-8">
                                         <div
-                                            class="relative flex-1 mb-10 bg-white rounded shadow lg:mb-8 dark:bg-gray-900">
+                                            class="relative flex-1 mb-10 bg-primary rounded shadow lg:mb-8 ">
                                             <div
                                                 class="absolute inline-block w-4 overflow-hidden -translate-y-1/2 top-7 -left-4">
                                                 <div
@@ -209,19 +209,19 @@ const Hero2 = () => {
                                                 <div class="flex flex-wrap items-center">
                                                     <div class="p-4 md:w-1/4 ">
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">April</span>
+                                                            class="text-lg text-white">April</span>
                                                         <p
-                                                            class="text-2xl font-bold text-gray-700 dark:text-gray-400 text-bold">
+                                                            class="text-2xl font-bold text-white text-bold">
                                                             01</p>
                                                         <span
-                                                            class="text-lg text-gray-700 dark:text-gray-400">2023</span>
+                                                            class="text-lg text-white">2023</span>
                                                     </div>
                                                     <div
                                                         class="flex-1 p-4 pr-4 border-l border-gray-300 dark:border-gray-700">
                                                         <p
-                                                            class="mb-2 text-xl font-bold text-gray-600 dark:text-gray-400">
+                                                            class="mb-2 text-xl font-bold text-white">
                                                             Final Day</p>
-                                                        <p class="text-gray-700 dark:text-gray-500">
+                                                        <p class="text-white">
                                                             Start the conference day
                                                         </p>
                                                     </div>

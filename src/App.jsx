@@ -7,6 +7,7 @@ import Blogs from "./components/Blogs/ Blogs";
 import Hero from "./components/Hero/Hero";
 import Faq from "./components/Faq/Faq";
 import Hero2 from "./components/Hero2/Hero2";
+import CoutDown from "./components/CountDown/CoutDown";
 
 const App = () => {
   return (
@@ -28,7 +29,9 @@ const App = () => {
 
       
     </section>
+    <CoutDown/>
      <Hero/>
+    
      <Hero2/>
      <ImageGallary/>
 
